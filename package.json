@@ -1,0 +1,11 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dashboard.jsx",
+  "scripts": {
+    "start": " npm Dashboard.jsx"
+  },
+  "author": "",
+  "license": "ISC"
+}
